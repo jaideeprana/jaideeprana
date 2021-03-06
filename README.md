@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [jaideep.github.io](https://jaideeprana.github.io/)
 
-- 💬 Ask me about **react, spring**
-
 - 📫 How to reach me **ranaDaKing45@gmail.com**
 
 - ⚡ Fun fact **My sense of humour is great ;)**
