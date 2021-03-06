@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 📝 I regularly write articles on [jaideep.github.io](jaideep.github.io)
+- 📝 I regularly write articles on [jaideep.github.io](https://jaideeprana.github.io/)
 
 - 💬 Ask me about **react, spring**
 
